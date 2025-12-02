@@ -10,6 +10,7 @@ This is the **web dashboard** and backend API server for **AgroMate** — a smar
 
 ##  Agromate + SMARTs
 
+
 ```mermaid
 graph TD
 
