@@ -1,7 +1,7 @@
 # SMARTs IOT System + AgroMate Web App
 
 
-This is the **web dashboard** and backend API server for **AgroMate** — a smart soil health monitoring system. Built with **Next.js**, it displays real-time and historical data from soil sensors (NPK, DHT11, Soil Moisture) stored in **MongoDB**.
+This is the **web dashboard** and backend API server for **AgroMate** — a smart soil mon health monitoring system. Built with **Next.js**, it displays real-time and historical data from soil sensors (NPK, DHT11, Soil Moisture) stored in **MongoDB**.
 
 ![Home](./output-snapshots/Home-Screen.png)
 
@@ -12,7 +12,7 @@ This is the **web dashboard** and backend API server for **AgroMate** — a smar
 
 
 ```mermaid
-graph TD
+graph TD 
 
     1767["User<br>External Actor"]
     subgraph 1757["External Systems"]
